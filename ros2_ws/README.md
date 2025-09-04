@@ -9,6 +9,7 @@ Before starting, please ensure you have:
 - ROS2 installed and sourced
 - Basic understanding of Python or C++
 - Familiarity with terminal/command line
+- Made a new branch in the repo (```your_name/upskilling-stage-1```). If you're unsure of how to do this, please consult [this link](https://www.w3schools.com/git/)
 
 ## Workspace Setup
 
@@ -192,7 +193,7 @@ Refer to the ROS2 Launch System Tutorial [here.](https://docs.ros.org/en/jazzy/T
 
 ### Concept
 Controller Area Network (CAN) is a robust communication protocol commonly used in automotive and industrial applications. ROS2 can interface with CAN networks to integrate with real hardware systems.
-### It is important to note that more likely than not, you will not be able to test this locally. Once finished, please message Henry or Ryan to see if your code works. 
+### It is important to note that more likely than not, you will not be able to test this locally. Once finished, please message Henry or Ryan to see if your code works properly. 
 
 ### What You'll Build
 Create a CAN counter node that:
